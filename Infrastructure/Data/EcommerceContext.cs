@@ -1,11 +1,5 @@
 ﻿using Core.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection.Emit;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Infrastructure.Data
 {
@@ -21,6 +15,7 @@ namespace Infrastructure.Data
         public DbSet<OrderProduct> orderProducts { get; set; }
         public DbSet<Discount> discounts { get; set; }
         public DbSet<Category> categories { get; set; }
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -49,7 +44,12 @@ namespace Infrastructure.Data
                 .WithMany(a => a.Addresses)
                 .HasForeignKey(u => u.userId)
                 .OnDelete(DeleteBehavior.Restrict);
+            modelBuilder.Entity<Product>()
+                .HasMany(p => p.ImageUrls)
+                .WithOne(p => p.Product)
+                .HasForeignKey(p => p.ProductId);
             base.OnModelCreating(modelBuilder);
+
         }
     }
 }

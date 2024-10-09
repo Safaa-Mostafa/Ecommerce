@@ -9,3 +9,15 @@ C:\Users\MSI\source\repos\Ecommerce\Core\obj\Debug\net8.0\Core.dll
 C:\Users\MSI\source\repos\Ecommerce\Core\obj\Debug\net8.0\refint\Core.dll
 C:\Users\MSI\source\repos\Ecommerce\Core\obj\Debug\net8.0\Core.pdb
 C:\Users\MSI\source\repos\Ecommerce\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\MSI\source\repos\Ecommerce\APK\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\MSI\source\repos\Ecommerce\APK\Core\bin\Debug\net8.0\Core.dll
+C:\Users\MSI\source\repos\Ecommerce\APK\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\MSI\source\repos\Ecommerce\APK\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\Ecommerce\APK\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\Ecommerce\APK\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\MSI\source\repos\Ecommerce\APK\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Ecommerce\APK\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\MSI\source\repos\Ecommerce\APK\Core\obj\Debug\net8.0\Core.dll
+C:\Users\MSI\source\repos\Ecommerce\APK\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\MSI\source\repos\Ecommerce\APK\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\MSI\source\repos\Ecommerce\APK\Core\obj\Debug\net8.0\ref\Core.dll

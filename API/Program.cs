@@ -1,4 +1,5 @@
 
+using API.MappingProfiles;
 using Core.Interfaces;
 using Infrastructure.Data;
 using Infrastructure.Data.Repositories;
@@ -22,7 +23,8 @@ namespace API
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-
+            builder.Services.AddAutoMapper(typeof(ProductMappings));
+            builder.Services.AddAutoMapper(typeof(CategoryMappings));
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -31,7 +33,7 @@ namespace API
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-
+            app.UseStaticFiles();
             app.UseHttpsRedirection();
 
             app.UseAuthorization();

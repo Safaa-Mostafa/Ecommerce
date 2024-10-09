@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Core.helpers;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Core.Entities
 {
-    public class Product:BaseEntity
+    public class Product : BaseEntity
     {
         [StringLength(500, ErrorMessage = "consider a max length is 500 characters")]
         public string? Description { get; set; }
@@ -19,8 +15,8 @@ namespace Core.Entities
         public decimal Price { get; set; }
         [Range(0, int.MaxValue, ErrorMessage = "Quantity in stock must be at least 0")]
         public int StockQuantity { get; set; }
-        public ICollection<string> ImageUrls { get; set; } = new List<string>();
-
+        [ImageValidation(500)]
+        public virtual ICollection<Image> ImageUrls { get; set; } = new List<Image>();
         public string CategoryId { get; set; }
         public Category category { get; set; }
         public virtual ICollection<Discount> Discounts { get; set; } = new List<Discount>();
