@@ -1,0 +1,12 @@
+D:\Safaa\Project\Ecommerce\Core\bin\Release\net8.0\Core.deps.json
+D:\Safaa\Project\Ecommerce\Core\bin\Release\net8.0\Core.dll
+D:\Safaa\Project\Ecommerce\Core\bin\Release\net8.0\Core.pdb
+D:\Safaa\Project\Ecommerce\Core\obj\Release\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Safaa\Project\Ecommerce\Core\obj\Release\net8.0\Core.AssemblyInfoInputs.cache
+D:\Safaa\Project\Ecommerce\Core\obj\Release\net8.0\Core.AssemblyInfo.cs
+D:\Safaa\Project\Ecommerce\Core\obj\Release\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\Safaa\Project\Ecommerce\Core\obj\Release\net8.0\Core.sourcelink.json
+D:\Safaa\Project\Ecommerce\Core\obj\Release\net8.0\Core.dll
+D:\Safaa\Project\Ecommerce\Core\obj\Release\net8.0\refint\Core.dll
+D:\Safaa\Project\Ecommerce\Core\obj\Release\net8.0\Core.pdb
+D:\Safaa\Project\Ecommerce\Core\obj\Release\net8.0\ref\Core.dll

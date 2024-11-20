@@ -10,5 +10,10 @@ namespace API.MappingProfiles
         {
             
         }
+
+        public Image Resolve(Product source, AddProductDTO destination, Image destMember, ResolutionContext context)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

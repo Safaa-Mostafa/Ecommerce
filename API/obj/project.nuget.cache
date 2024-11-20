@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3c1gWVx2/xQ=",
+  "dgSpecHash": "xFsqGiUzizg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MSI\\source\\repos\\Ecommerce\\APK\\API\\API.csproj",
+  "projectFilePath": "D:\\Safaa\\Project\\Ecommerce\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\MSI\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

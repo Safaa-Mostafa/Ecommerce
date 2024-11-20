@@ -21,3 +21,15 @@ C:\Users\MSI\source\repos\Ecommerce\APK\Core\obj\Debug\net8.0\Core.dll
 C:\Users\MSI\source\repos\Ecommerce\APK\Core\obj\Debug\net8.0\refint\Core.dll
 C:\Users\MSI\source\repos\Ecommerce\APK\Core\obj\Debug\net8.0\Core.pdb
 C:\Users\MSI\source\repos\Ecommerce\APK\Core\obj\Debug\net8.0\ref\Core.dll
+D:\Safaa\Project\Ecommerce\Core\bin\Debug\net8.0\Core.deps.json
+D:\Safaa\Project\Ecommerce\Core\bin\Debug\net8.0\Core.dll
+D:\Safaa\Project\Ecommerce\Core\bin\Debug\net8.0\Core.pdb
+D:\Safaa\Project\Ecommerce\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Safaa\Project\Ecommerce\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\Safaa\Project\Ecommerce\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\Safaa\Project\Ecommerce\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\Safaa\Project\Ecommerce\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\Safaa\Project\Ecommerce\Core\obj\Debug\net8.0\Core.dll
+D:\Safaa\Project\Ecommerce\Core\obj\Debug\net8.0\refint\Core.dll
+D:\Safaa\Project\Ecommerce\Core\obj\Debug\net8.0\Core.pdb
+D:\Safaa\Project\Ecommerce\Core\obj\Debug\net8.0\ref\Core.dll

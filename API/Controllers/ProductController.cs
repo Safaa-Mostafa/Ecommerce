@@ -1,4 +1,5 @@
 ﻿using API.DTO;
+using API.ResponseModels;
 using AutoMapper;
 using Core.Entities;
 using Core.Interfaces;
@@ -32,8 +33,11 @@ namespace API.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
-            var products = await _productRepository.GetAllAsync();
-            return Ok(new { status = 200, data = products });
+          
+                var products = await _productRepository.GetAllAsync();
+            throw new Exception("fjjf"); 
+            return Ok(ApiResponse<IEnumerable<Product>>.SuccessResponse(products, "data fetched success", 200));
+          
         }
 
 

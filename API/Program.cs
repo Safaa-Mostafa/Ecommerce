@@ -1,5 +1,6 @@
 
 using API.MappingProfiles;
+using API.Middleware;
 using Core.Interfaces;
 using Infrastructure.Data;
 using Infrastructure.Data.Repositories;
@@ -33,6 +34,7 @@ namespace API
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+            app.UseMiddleware<ExceptionMiddleware>();
             app.UseStaticFiles();
             app.UseHttpsRedirection();
 

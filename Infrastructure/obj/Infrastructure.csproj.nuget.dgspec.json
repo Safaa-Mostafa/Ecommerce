@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MSI\\source\\repos\\Ecommerce\\APK\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\Safaa\\Project\\Ecommerce\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MSI\\source\\repos\\Ecommerce\\APK\\Core\\Core.csproj": {
+    "D:\\Safaa\\Project\\Ecommerce\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MSI\\source\\repos\\Ecommerce\\APK\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Safaa\\Project\\Ecommerce\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\MSI\\source\\repos\\Ecommerce\\APK\\Core\\Core.csproj",
+        "projectPath": "D:\\Safaa\\Project\\Ecommerce\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MSI\\source\\repos\\Ecommerce\\APK\\Core\\obj\\",
+        "outputPath": "D:\\Safaa\\Project\\Ecommerce\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\MSI\\source\\repos\\Ecommerce\\APK\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Safaa\\Project\\Ecommerce\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MSI\\source\\repos\\Ecommerce\\APK\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Safaa\\Project\\Ecommerce\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\MSI\\source\\repos\\Ecommerce\\APK\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\Safaa\\Project\\Ecommerce\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MSI\\source\\repos\\Ecommerce\\APK\\Infrastructure\\obj\\",
+        "outputPath": "D:\\Safaa\\Project\\Ecommerce\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\MSI\\source\\repos\\Ecommerce\\APK\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\MSI\\source\\repos\\Ecommerce\\APK\\Core\\Core.csproj"
+              "D:\\Safaa\\Project\\Ecommerce\\Core\\Core.csproj": {
+                "projectPath": "D:\\Safaa\\Project\\Ecommerce\\Core\\Core.csproj"
               }
             }
           }
